@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+plotly
+f90nml
+seaborn
+git+https://github.com/hiddenSymmetries/simsopt.git@orbint_resonance
